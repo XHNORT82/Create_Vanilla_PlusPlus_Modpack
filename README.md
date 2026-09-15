@@ -1,3 +1,3 @@
 # Create: Vanilla++
-Provate modpack
+Private modpack
 V.1.0.1
